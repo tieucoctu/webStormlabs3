@@ -79,6 +79,6 @@
         </div>
     </div>
 </section>
-<?php include("layout/footer");?>
+<?php include("layout/footer.html");?>
 </body>
 </html>
