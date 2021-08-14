@@ -51,6 +51,9 @@ img{
     color: #5caec9;
     margin-top: 50px;
 }
+.padding{
+    text-align: center;
+}
 .padding-10{
     display: table;
     float: left;
