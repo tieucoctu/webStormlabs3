@@ -39,6 +39,10 @@ img{
     font-size: 20px;
     margin-top: 10px;
 }
+.logo a{
+    text-decoration: none;
+    color: white;
+}
 .con{
     float: right;
     margin: 25px;
