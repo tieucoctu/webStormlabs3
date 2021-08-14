@@ -1,1 +1,1 @@
-<?php include("musicStore.html");?>
+<?php include("musicStore.php");?>
