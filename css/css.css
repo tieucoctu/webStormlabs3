@@ -1,0 +1,136 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: #151829;
+    font-family: "Quicksand", sans-serif;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 1.75;
+    color: white;
+}
+img{
+    width: 100%;
+
+}
+.header{
+    width: 100%;
+    float: left;
+    background-color: #1b2036;
+}
+.content{
+    width: 100%;
+    float: left;
+}
+.footer{
+    width: 100%;
+    float: left;
+    margin: 30px;
+}
+.container{
+    float: none;
+    margin: auto;
+    width: 1100px;
+
+}
+.logo{
+    float: left;
+    font-size: 20px;
+    margin-top: 10px;
+}
+.con{
+    float: right;
+    margin: 25px;
+}
+
+.con a{
+    color: #5caec9;
+}
+.padding>h2{
+    color: #5caec9;
+    margin-top: 50px;
+}
+.padding-10{
+    display: table;
+    float: left;
+    width: calc(25% - 20px);
+    padding: 10px;
+    text-align: center;
+    border-radius: 5px;
+}
+.padding-10 img{
+    border-radius: 10px;
+}
+.page-next {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50px;
+    padding: 10px 15px;
+}
+.page-next li{
+    list-style: none;
+}
+.page-next li a{
+    text-decoration: none;
+    text-align: center;
+    color: white;
+    padding: 8px;
+    border:1px solid #19417b;
+    background-color: #19417b;
+
+}
+.page-next a:hover{
+    border:1px solid #0321b0;
+    background-color:#0321b0;
+}
+.page-next a:active{
+    border:1px solid #669f15;
+    background-color:#669f15;
+}
+hr{
+    margin-bottom: 30px;
+}
+.trend{
+    display: inline-block;
+    text-align: center;
+    padding: 15px;
+}
+.trend h1{
+    color: #5caec9;
+}
+#banner{
+    width: 50%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.trend h3{
+    margin: 15px;
+}
+.trend p {
+    width: 70%;
+    margin-left: 15%;
+}
+.footer-3{
+    display: table-cell;
+    width: 33%;
+    padding: 5px;
+    margin : 30px;
+    padding-right: 15px;
+}
+.footer-3 img{
+    width: 40%;
+    float: left;
+    border-radius: 5px;
+    margin: 2px;
+
+}
+.footer-3 h3{
+    color: #5caec9;
+    margin-bottom: 15px;
+}
+.footer-3 i{
+    color: blue;
+    margin-top: 5px;
+}
