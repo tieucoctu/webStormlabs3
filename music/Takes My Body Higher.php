@@ -9,9 +9,9 @@
     <?php include("../layout/header.html");?>
     <section class="content">
         <div class="container">
-            <h2>Takes My Body Higher</h2>
+            <h2 id="id">Takes My Body Higher</h2>
             <img src="../img/banner.png" id="banner">
-            <audio controls>
+            <audio controls autoplay>
                 <source src="../audio/Takes-My-Body-Higher-Shoffy-Lincoln-Jesser.mp3">
             </audio>
             <h4>Singer: Shoffy, Lincoln Jesser</h4>

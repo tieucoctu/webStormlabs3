@@ -134,3 +134,11 @@ hr{
     color: blue;
     margin-top: 5px;
 }
+audio{
+    display: flex;
+    margin-left: 400px;
+    margin-bottom: 15px;
+}
+#id{
+    color: #5caec9;
+}
